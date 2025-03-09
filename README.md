@@ -1,4 +1,4 @@
-💻 Ladislao | Estudiante de Licenciatura en Sistemas | UNLP
+#💻 Ladislao | Estudiante de Licenciatura en Sistemas | UNLP
 ¡Hola! Soy Ladislao, estudiante de cuarto año de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP). Me apasiona el desarrollo web y la creación de videojuegos, y actualmente estoy en búsqueda de oportunidades para aplicar mis conocimientos y seguir creciendo profesionalmente.
 
 Estoy siempre aprendiendo y explorando nuevas tecnologías para desarrollar soluciones innovadoras y eficientes. 🚀
