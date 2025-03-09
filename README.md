@@ -1,6 +1,9 @@
-# 💫 About Me:
-Hola, soy Ladislao, estoy en mi cuarto año de Licenciatura en Sistemas en la UNLP<br>Actualmente busco trabajo me apasiona el desarrollo web y el de videojuegos
+💻 Ladislao | Estudiante de Licenciatura en Sistemas | UNLP
+¡Hola! Soy Ladislao, estudiante de cuarto año de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP). Me apasiona el desarrollo web y la creación de videojuegos, y actualmente estoy en búsqueda de oportunidades para aplicar mis conocimientos y seguir creciendo profesionalmente.
 
+Estoy siempre aprendiendo y explorando nuevas tecnologías para desarrollar soluciones innovadoras y eficientes. 🚀
+
+📫 Contáctame: ladislao.bordon@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ladislao-bordon-8312a0285)
